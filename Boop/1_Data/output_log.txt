@@ -1,0 +1,81 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\NATTraversalForUNET.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\NATTraversalForUNET.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\Open.Nat.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\Open.Nat.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\RakNetSwig.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\RakNetSwig.dll into Unity Child Domain
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\System.Threading.dll (this message is harmless)
+Loading D:\Users\Michael\Documents\Boop\1_Data\Managed\System.Threading.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Michael\Documents\Boop\1_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.090609 ms
+Fallback handler could not load library D:/Users/Michael/Documents/Boop/1_Data/Mono/libc
+Fallback handler could not load library D:/Users/Michael/Documents/Boop/1_Data/Mono/.\libc
+Fallback handler could not load library D:/Users/Michael/Documents/Boop/1_Data/Mono/libc
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 273c -> priority: 1 
+  Thread -> id: 19e8 -> priority: 1 
+Facilitator connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.369721 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 0.384102 ms (FindLiveObjects: 0.007654 ms CreateObjectMapping: 0.012988 ms MarkObjects: 0.330754 ms  DeleteObjects: 0.024122 ms)
+
+on server add player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NATHelper: NAT Device not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+on server add player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Facilitator connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:56602}
+Server client disconnect error:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnDisconnectError error:6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
