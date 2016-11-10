@@ -9,6 +9,9 @@ public class NetworkScriptManager : NetworkBehaviour {
 	    if(isLocalPlayer)
         {
             GetComponent<PlayerMove>().enabled = true;
+            GetComponent<ChatManager>().enabled = true;
+            GetComponent<SetNameText>().enabled = true;
+            GetComponent<UseButton>().enabled = true;
         }
 	}
 	

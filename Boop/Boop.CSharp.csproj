@@ -88,10 +88,14 @@
     <Compile Include="Assets\NAT Traversal Example\ExampleNetworkManager.cs" />
     <Compile Include="Assets\NAT Traversal Example\NATHelperTester.cs" />
     <Compile Include="Assets\NAT Traversal Example\NATTraversalExamplePlayer.cs" />
+    <Compile Include="Assets\Scripts\ChatManager.cs" />
     <Compile Include="Assets\Scripts\Destroy_After_Sound_Complete.cs" />
     <Compile Include="Assets\Scripts\Keep_sound.cs" />
     <Compile Include="Assets\Scripts\NetworkScriptManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerInfo.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\SetName.cs" />
+    <Compile Include="Assets\Scripts\SetNameText.cs" />
     <Compile Include="Assets\Scripts\UseButton.cs" />
     <Compile Include="Assets\Scripts\soundManager.cs" />
     <Compile Include="Assets\Scripts\sound_button.cs" />
